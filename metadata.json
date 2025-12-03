@@ -1,0 +1,5 @@
+{
+  "name": "The Insight Chronicle",
+  "description": "A dynamic newspaper generator that uses Google Search and Gemini to synthesize real-time information into a professionally written article.",
+  "requestFramePermissions": []
+}
